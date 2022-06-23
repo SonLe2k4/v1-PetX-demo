@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/v1-PetX-demo/static/css/main.f81cee3f.css",
+    "main.js": "/v1-PetX-demo/static/js/main.576a869d.js",
+    "static/media/video-demo.mp4": "/v1-PetX-demo/static/media/video-demo.89f69a58e29c5a51e6ff.mp4",
+    "static/media/cat-6.jpg": "/v1-PetX-demo/static/media/cat-6.546a3dfa7367840297f3.jpg",
+    "static/media/cat-4.jpg": "/v1-PetX-demo/static/media/cat-4.060f759b783f2675eef6.jpg",
+    "static/media/chim.jpg": "/v1-PetX-demo/static/media/chim.665ef0c857b6ab5d64a0.jpg",
+    "static/media/cho-mat-dan.jpg": "/v1-PetX-demo/static/media/cho-mat-dan.60dde688d4447e860930.jpg",
+    "static/media/cat.jpg": "/v1-PetX-demo/static/media/cat.abd97eda683f16a6a342.jpg",
+    "static/media/cat-2.jpg": "/v1-PetX-demo/static/media/cat-2.3739d74ef1b03d307f68.jpg",
+    "static/media/cat-5.jpg": "/v1-PetX-demo/static/media/cat-5.91100b9ffca4363beda3.jpg",
+    "static/media/logos3.png": "/v1-PetX-demo/static/media/logos3.b402efb19ac1fc0420c8.png",
+    "static/media/logo-dark-theme.png": "/v1-PetX-demo/static/media/logo-dark-theme.e858de61c0ff0664c012.png",
+    "static/media/cat-3.jpg": "/v1-PetX-demo/static/media/cat-3.d702f7cc72ff48651a98.jpg",
+    "index.html": "/v1-PetX-demo/index.html",
+    "main.f81cee3f.css.map": "/v1-PetX-demo/static/css/main.f81cee3f.css.map",
+    "main.576a869d.js.map": "/v1-PetX-demo/static/js/main.576a869d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f81cee3f.css",
+    "static/js/main.576a869d.js"
+  ]
+}
