@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/v1-PetX-demo/static/css/main.3460b28f.css",
-    "main.js": "/v1-PetX-demo/static/js/main.28f03900.js",
+    "main.css": "/v1-PetX-demo/static/css/main.19833681.css",
+    "main.js": "/v1-PetX-demo/static/js/main.de0d7301.js",
     "static/media/video-demo.mp4": "/v1-PetX-demo/static/media/video-demo.89f69a58e29c5a51e6ff.mp4",
     "static/media/cat-6.jpg": "/v1-PetX-demo/static/media/cat-6.546a3dfa7367840297f3.jpg",
     "static/media/cat-4.jpg": "/v1-PetX-demo/static/media/cat-4.060f759b783f2675eef6.jpg",
@@ -14,11 +14,11 @@
     "static/media/logo-dark-theme.png": "/v1-PetX-demo/static/media/logo-dark-theme.e858de61c0ff0664c012.png",
     "static/media/cat-3.jpg": "/v1-PetX-demo/static/media/cat-3.d702f7cc72ff48651a98.jpg",
     "index.html": "/v1-PetX-demo/index.html",
-    "main.3460b28f.css.map": "/v1-PetX-demo/static/css/main.3460b28f.css.map",
-    "main.28f03900.js.map": "/v1-PetX-demo/static/js/main.28f03900.js.map"
+    "main.19833681.css.map": "/v1-PetX-demo/static/css/main.19833681.css.map",
+    "main.de0d7301.js.map": "/v1-PetX-demo/static/js/main.de0d7301.js.map"
   },
   "entrypoints": [
-    "static/css/main.3460b28f.css",
-    "static/js/main.28f03900.js"
+    "static/css/main.19833681.css",
+    "static/js/main.de0d7301.js"
   ]
 }
